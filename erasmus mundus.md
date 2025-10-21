@@ -1,5 +1,7 @@
 Dream big, start now.
 
+https://g.co/gemini/share/3328b554971c
+
 ইউরোপে world-class, multi-country, fully-funded/part-funded Master’s—this is your moment. Bangladesh থেকে সবাই apply করতে পারবেন!
 
 এখানে ২৫টিরও বেশি প্রোগ্রামের একটি বর্ধিত তালিকা দেওয়া হলো যেগুলোতে আবেদনপত্র গ্রহণ করা শুরু হয়েছে বা শীঘ্রই শুরু হবে। আবেদন করার জন্য আপনি কি প্রস্তুত? -দেখে নিন আবেদনের ডেডলাইন, প্রোগ্রামের ওয়েবসাইট, আর মেইন মেইন রিকুয়ারমেন্টস গুলো!
