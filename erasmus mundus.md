@@ -1,6 +1,6 @@
 Dream big, start now.
 
-https://g.co/gemini/share/3328b554971c
+#https://g.co/gemini/share/3328b554971c
 
 ইউরোপে world-class, multi-country, fully-funded/part-funded Master’s—this is your moment. Bangladesh থেকে সবাই apply করতে পারবেন!
 
