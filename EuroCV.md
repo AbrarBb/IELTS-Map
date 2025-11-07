@@ -41,7 +41,7 @@
 | :--- | :--- | :--- |
 | **Full Name** | নিজের পুরো নাম (হেডার হিসেবে শুধুমাত্র "CV" না লিখে Curriculum Vitae of XXXX লিখুন) | **Curriculum Vitae of ASHIQ RAHMAN** |
 | **Address** | যথাযথ পোস্টাল এড্রেস লিখুন (অপ্রয়োজনীয় লিখা পরিহার করুন) | *Dhaka, Bangladesh* |
-| **Email** | প্রফেশনাল ইমেইল ব্যবহার করুন। | ✅`ashiq.rahman@gmail.com` (❌ `cuteprincess@yahoo.com` পরিহার করুন) |
+| **Email** | প্রফেশনাল ইমেইল ব্যবহার করুন। | `abrar.khatib@gmail.com` ( `cuteprincess@yahoo.com` পরিহার করুন) |
 | **Telephone/Mobile** | একটি অ্যাকটিভ ফোন নম্বর, (ইন্টারন্যাশনাল কোডসহ) | `+880 1XXXXXXXXX` |
 | **অন্যান্য** | জন্ম তারিখ, জাতীয়তা, লিঙ্গ (বাধ্যতামূলক নয়) | - |
 
