@@ -1,103 +1,58 @@
-  
-<!-- 
-১. IELTS Buddy – সহজ ভাষায় টিপস ও প্রচুর প্র্যাকটিস ম্যাটেরিয়াল।
-২. IELTS Simon – উচ্চমানের রাইটিং ও স্পিকিং আইডিয়া, বাস্তব পরীক্ষার মতো অনুশীলন।
-৩. IELTS LIZ – স্টেপ-বাই-স্টেপ গাইড, নতুনদের জন্য বিশেষভাবে উপযোগী।
-৪. IELTS Mentor – প্রচুর রিডিং ও রাইটিং মডেল আন্সার।
-৫. IELTS Advantage – রাইটিং টাস্ক 2 এবং স্পিকিং-এর গভীর বিশ্লেষণ।
-৬. Road to IELTS – ব্রিটিশ কাউন্সিলের অফিসিয়াল প্রস্তুতি কোর্স।
-৭. E2 IELTS – ভিডিও টিউটোরিয়াল ও মক টেস্টের সমৃদ্ধ ভান্ডার।
-কেন এই রিসোর্সগুলো গুরুত্বপূর্ণ: প্রতিটি প্ল্যাটফর্মে পরীক্ষার চারটি অংশ—Listening, Reading, Writing, Speaking—বিষয়ভিত্তিক কৌশলসহ শেখানো হয়। এখানে আছে প্র্যাকটিস টেস্ট, মডেল আন্সার, আর স্কোরিং-এর মানদণ্ডের সঙ্গে মিল রাখা গাইড, যা পরীক্ষার আসল ধাপগুলো সহজ করে তোলে।
-IELTS কেন গুরুত্বপূর্ণ: উচ্চশিক্ষা, বিদেশে চাকরি কিংবা ইমিগ্রেশনের জন্য ইংরেজি দক্ষতার বিশ্বব্যাপী স্বীকৃত মানদণ্ড হলো IELTS। পৃথিবীর ১০,০০০-এর বেশি বিশ্ববিদ্যালয়, নিয়োগকর্তা এবং ইমিগ্রেশন কর্তৃপক্ষ এটি গ্রহণ করে। তাই ভালো স্কোর আপনার শিক্ষা ও ক্যারিয়ার উভয় ক্ষেত্রেই নতুন দরজা খুলে দেয়।
-একজন শিক্ষক হিসেবে আমার অভিজ্ঞতা হলো—শুধু শব্দ মুখস্থ নয়, বরং সঠিক কৌশল ও ধারাবাহিক অনুশীলনই সাফল্যের মূল। সঠিক রিসোর্স ব্যবহার করলে ৭+ স্কোর একদম অর্জনযোগ্য।
+#  IELTS প্রস্তুতির জন্য গুরুত্বপূর্ণ অনলাইন প্ল্যাটফর্ম, চ্যানেল ও ম্যাটেরিয়ালস
 
-🇫🇮 ফিনল্যান্ড (Finland) → IELTS 6.0–6.5 | Spouse ✅ | Intake: Sept
-🇧🇪 বেলজিয়াম (Belgium) → IELTS 6–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇨🇿 চেক রিপাবলিক (Czech Rep.) → IELTS 5.0–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇩🇪 জার্মানি (Germany/DE) → IELTS 6.0–6.5 | Spouse ❌ | Intake: Mar/Oct
-🇳🇱 নেদারল্যান্ডস (Holland/NL) → IELTS 6.0–6.5 | Spouse ✅ | Intake: Feb/Sept
-🇮🇹 ইতালি (Italy) → MOI/IELTS 5.5–6.5 | Spouse ❌ | Intake: Sept
-🇧🇬 বুলগেরিয়া (Bulgaria) → IELTS 6.0 / MOI | Spouse ❌ | Intake: Feb/Sept
-🇩🇰 ডেনমার্ক (Denmark) → IELTS 6.0–6.5 | Spouse ✅ | Intake: Feb/Sept
-🇪🇸 স্পেন (Spain/ES) → IELTS 5.5–6.5 | Spouse ❌ | Intake: Feb/Apr/Sept
-🇦🇹 অস্ট্রিয়া (Austria) → IELTS 6.5–7.0 | Spouse ❌ | Intake: Feb/Sept
-🇸🇪 সুইডেন (Sweden/SE) → IELTS 6.5 | Spouse ✅ | Intake: Feb/Sept
-🇲🇹 মাল্টা (Malta) → IELTS 6.0–6.5 | Spouse ❌ | Intake: Feb/Apr/Sept
-🇵🇱 পোল্যান্ড (Poland/PL) → IELTS 6.0–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇫🇷 ফ্রান্স (France) → IELTS 6.0–6.5 (কিছু ছাড় আছে) | Spouse ❌ | Intake: Feb/Sept
-🇳🇴 নরওয়ে (Norway) → IELTS 7.0 | Spouse ✅ | Intake: Sept
-🇱🇻 লাটভিয়া (Latvia) → IELTS 5.5–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇱🇹 লিথুয়ানিয়া (Lithuania) → IELTS 5.5–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇱🇺 লুক্সেমবার্গ (Luxembourg) → IELTS 7.0 | Spouse ❌ | Intake: Feb/Sept
-🇬🇷 গ্রীস (Greece) → IELTS 6.0–6.5 | Spouse ❌ | Intake: Feb/Sept
-🇭🇺 হাঙ্গেরি (Hungary) → IELTS 5.5–6.5 / MOI | Spouse ❌ | Intake: Feb/Sept
-🇨🇾 সাইপ্রাস (Cyprus) → IELTS 5.0 | Spouse ❌ | Intake: Feb/Sept ✅ সহজ Admission
--->
+---
 
+##  অনলাইন প্ল্যাটফর্ম ও ওয়েবসাইটসমূহ
 
-- Mat 1: https://drive.google.com/drive/folders/1RP5ICcWKgHBsWVrMRu_ttRS8qeEKbo-K
+IELTS পরীক্ষার চারটি অংশ—Listening, Reading, Writing, Speaking—বিষয়ভিত্তিক কৌশলসহ শেখার জন্য এই প্ল্যাটফর্মগুলো খুবই গুরুত্বপূর্ণ। এগুলোতে প্র্যাকটিস টেস্ট, মডেল আন্সার, আর স্কোরিং-এর মানদণ্ড অনুযায়ী গাইডলাইন পাওয়া যায়।
 
-- Mat 2: https://drive.google.com/drive/folders/17v5_GjZvLNEeMbA4zvwsC_AY9919UfOY
+| # | রিসোর্সের নাম | মূল সুবিধা ও গুরুত্ব |
+| :---: | :--- | :--- |
+| **১.** | **IELTS Buddy** | সহজ ভাষায় টিপস এবং **প্রচুর প্র্যাকটিস ম্যাটেরিয়াল** সরবরাহ করে। |
+| **২.** | **IELTS Simon** | উচ্চমানের **রাইটিং ও স্পিকিং আইডিয়া**, বাস্তব পরীক্ষার মতো অনুশীলন। |
+| **৩.** | **IELTS LIZ** | **স্টেপ-বাই-স্টেপ গাইড**, নতুনদের জন্য বিশেষভাবে উপযোগী। |
+| **৪.** | **IELTS Mentor** | প্রচুর **রিডিং ও রাইটিং মডেল আন্সার** এবং প্র্যাকটিস সেট। |
+| **৫.** | **IELTS Advantage** | **রাইটিং টাস্ক 2 এবং স্পিকিং-এর গভীর বিশ্লেষণ** ও উন্নত কৌশল। |
+| **৬.** | **Road to IELTS** | ব্রিটিশ কাউন্সিলের **অফিসিয়াল প্রস্তুতি কোর্স** ও ইন্টারেক্টিভ লার্নিং। |
+| **৭.** | **E2 IELTS** | **ভিডিও টিউটোরিয়াল ও মক টেস্টের** সমৃদ্ধ ভান্ডার, স্ট্র্যাটেজি-ভিত্তিক শিক্ষা। |
 
-- Mat 3: https://drive.google.com/drive/folders/17v5_GjZvLNEeMbA4zvwsC_AY9919UfOY
+---
 
-- Mat 4: https://docs.google.com/document/d/1ijY3W83PohUpOVYEwUfRA-TsbJTWrfpRPANIYXf5UfY/edit?tab=t.0
+##  প্র্যাকটিস ম্যাটেরিয়ালস এবং সহায়ক ডকুমেন্টস লিঙ্ক
 
+* **Mat 1 (Google Drive Folder):** [https://drive.google.com/drive/folders/1RP5ICcWKgHBsWVrMRu\_ttRS8qeEKbo-K](https://drive.google.com/drive/folders/1RP5ICcWKgHBsWVrMRu_ttRS8qeEKbo-K)
+* **Mat 2 (Google Drive Folder):** [https://drive.google.com/drive/folders/17v5\_GjZvLNEeMbA4zvwsC\_AY9919UfOY](https://drive.google.com/drive/folders/17v5_GjZvLNEeMbA4zvwsC_AY9919UfOY)
+* **Mat 3 (Google Drive Folder):** [https://drive.google.com/drive/folders/17v5\_GjZvLNEeMbA4zvwsC\_AY9919UfOY](https://drive.google.com/drive/folders/17v5_GjZvLNEeMbA4zvwsC_AY9919UfOY)
+* **Mat 4 (Google Docs Document):** [https://docs.google.com/document/d/1ijY3W83PohUpOVYEwUfRA-TsbJTWrfpRPANIYXf5UfY/edit?tab=t.0](https://docs.google.com/document/d/1ijY3W83PohUpOVYEwUfRA-TsbJTWrfpRPANIYXf5UfY/edit?tab=t.0)
 
+---
 
+## 📺 গুরুত্বপূর্ণ ইউটিউব চ্যানেল এবং অন্যান্য রিসোর্স
 
+### GREAT IELTS YouTube CHANNELS:
 
+* **FastTrack IELTS** (সব দিক থেকে খুবই ভালো): [https://youtube.com/c/FastrackEducation](https://youtube.com/c/FastrackEducation)
+* **Crack IELTS with Rob** (Listening এবং Reading): [https://m.youtube.com/channel/UCrDeNIUi-e62DZnGq09KUuA](https://m.youtube.com/channel/UCrDeNIUi-e62DZnGq09KUuA)
+* **English Speaking Success with Keith**: [https://m.youtube.com/channel/UCiVm8XcbwS8-pcDEa5lFXIA](https://m.youtube.com/channel/UCiVm8XcbwS8-pcDEa5lFXIA)
+* **IELTS Liz Website**: [https://ieltsliz.com](https://ieltsliz.com)
+* **Writing Resource (YouTube Channel):** [https://m.youtube.com/channel/UCRSFsZwTpcm2IZKcWTOyyZg](https://m.youtube.com/channel/UCRSFsZwTpcm2IZKcWTOyyZg)
 
+### অতিরিক্ত প্র্যাকটিস ম্যাটেরিয়ালস:
 
+* **CAMBRIDGE IELTS TEST SERIES 1-14 (Download Link):** [https://www.ieltsscore.com/download-cambridge-ielts-practice-test-series-1-13/](https://www.ieltsscore.com/download-cambridge-ielts-practice-test-series-1-13/)
+* **BRITISH COUNCIL IELTS PREP APP (Google Play Store):** [https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep](https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep)
+* **OTHER IELTS RESOURCES (IELTS with Dave):** (Writing, Reading, এবং Speaking-এর জন্য খুবই ভালো) [https://howtodoielts.com/blog/](https://howtodoielts.com/blog/)
 
+### অনুশীলন ও টেক্সটবুক লিঙ্ক:
 
-
-
-
-
-
-# GREAT IELTS YouTube CHANNELS:
-
-- FastTrack IELTS (very good for all aspects)- [https://youtube.com/c/FastrackEducation](https://youtube.com/c/FastrackEducation)
-
-- Crack IELTS with Rob (Listening and Reading)-  [https://m.youtube.com/channel/UCrDeNIUi-e62DZnGq09KUuA](https://m.youtube.com/channel/UCrDeNIUi-e62DZnGq09KUuA)
-
-- English Speaking Success with Keith- [https://m.youtube.com/channel/UCiVm8XcbwS8-pcDEa5lFXIA](https://m.youtube.com/channel/UCiVm8XcbwS8-pcDEa5lFXIA)
-
-- IELTS Liz- [https://ieltsliz.com](https://ieltsliz.com)
-
-- Writing resource- [https://m.youtube.com/channel/UCRSFsZwTpcm2IZKcWTOyyZg](https://m.youtube.com/channel/UCRSFsZwTpcm2IZKcWTOyyZg)
-
-- CAMBRIDGE IELTS TEST SERIES 1-14:  
-[https://www.ieltsscore.com/download-cambridge-ielts-practice-test-series-1-13/](https://www.ieltsscore.com/download-cambridge-ielts-practice-test-series-1-13/)
-
-- BRITISH COUNCIL IELTS PREP APP:  
-[https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep](https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep)
-
-- OTHER IELTS RESOURCES:  
-IELTS with Dave (very good for writing, reading and speaking)- [https://howtodoielts.com/blog/](https://howtodoielts.com/blog/)
-
-- Exercises:   
-[https://t.co/0PNYHdEDIl](https://t.co/0PNYHdEDIl)
-
-[https://t.co/wtN3elRNa2](https://t.co/wtN3elRNa2)
-
-(Trace the answers by the weeks)
-
-[https://t.co/LftjzPn1Zt](https://t.co/LftjzPn1Zt)
-
-[https://t.co/vAOvRedOZw](https://t.co/vAOvRedOZw)
-
-[https://t.co/v7x3F7MtEk](https://t.co/v7x3F7MtEk)
-
-Textbooks- [https://t.co/CnM5CokzNW](https://t.co/CnM5CokzNW)
-
-More IELTS preparation resources
-
-[https://ieltsnigeria.org/prep/Barrons\_IELTS.zip](https://ieltsnigeria.org/prep/Barrons_IELTS.zip) 
-
-[https://ieltsnigeria.org/prep/Cambridge\_IELTS.zip](https://ieltsnigeria.org/prep/Cambridge_IELTS.zip) 
-
-[https://ieltsnigeria.org/prep/Kaplan\_IELTS.zip](https://ieltsnigeria.org/prep/Kaplan_IELTS.zip)  
-
-[https://ieltsnigeria.org/prep/Longman\_IELTS.zip](https://ieltsnigeria.org/prep/Longman_IELTS.zip) 
+* **Exercises 1:** [https://t.co/0PNYHdEDIl](https://t.co/0PNYHdEDIl)
+* **Exercises 2:** [https://t.co/wtN3elRNa2](https://t.co/wtN3elRNa2)
+* **Exercises 3:** [https://t.co/LftjzPn1Zt](https://t.co/LftjzPn1Zt)
+* **Exercises 4:** [https://t.co/vAOvRedOZw](https://t.co/vAOvRedOZw)
+* **Exercises 5:** [https://t.co/v7x3F7MtEk](https://t.co/v7x3F7MtEk)
+* **Textbooks:** [https://t.co/CnM5CokzNW](https://t.co/CnM5CokzNW)
+* **More IELTS preparation resources (ZIP Files):**
+    * Barrons\_IELTS: [https://ieltsnigeria.org/prep/Barrons\_IELTS.zip](https://ieltsnigeria.org/prep/Barrons_IELTS.zip)
+    * Cambridge\_IELTS: [https://ieltsnigeria.org/prep/Cambridge\_IELTS.zip](https://ieltsnigeria.org/prep/Cambridge_IELTS.zip)
+    * Kaplan\_IELTS: [https://ieltsnigeria.org/prep/Kaplan\_IELTS.zip](https://ieltsnigeria.org/prep/Kaplan_IELTS.zip)
+    * Longman\_IELTS: [https://ieltsnigeria.org/prep/Longman\_IELTS.zip](https://ieltsnigeria.org/prep/Longman_IELTS.zip)
